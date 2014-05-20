@@ -1,0 +1,10 @@
+---
+module:
+  name: "ngTable"
+uis:
+  - name: ng-table
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
